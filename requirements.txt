@@ -1,7 +1,7 @@
-streamlit
-tensorflow
-opencv-python-headless
-numpy
+streamlit>=1.40
+numpy<2
 pandas
 scikit-learn
+opencv-python-headless>=4.8
+tensorflow
 mediapipe==0.10.35
