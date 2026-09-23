@@ -1,0 +1,7 @@
+streamlit
+tensorflow
+opencv-python-headless
+numpy
+pandas
+scikit-learn
+mediapipe==0.10.35
